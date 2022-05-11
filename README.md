@@ -1,12 +1,39 @@
-# Halo semua! 
-Perkenalkan nama saya **Muhammad Ali Yusuf**.\
-Saya seorang **Mahasiswa** di [Universitas Trunojoyo Madura](https://www.trunojoyo.ac.id/).\
-Saya juga memiliki gelar [Google Associate Cloud Engineer](https://www.credential.net/bismillah) sejak 2022.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ali-yusuf-7623b91a3/)ku ya.
+<a href="#"><img width="100%" height="auto" src="https://linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg" height="175px"/></a>
 
+<h1 align="center">Hi Everyone!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">I'm Muhammad Ali Yusuf</h3>
+
+## 🚀 About Me
+- 🔭 I’m currently studying at Trunojoyo Madura University.
+- 🌱 I’m currently learning about Cloud Computing at Bangkit Academy led by Google, GoTo, & Traveloka.
+
+## 📊 Stats
 <p align="left">
 <a href="https://github.com/muhammadaliyusuf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## 📄 Certifications
+- Dicoding
+  - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KR4M3Z0M)
+  - [lorem]
+
+- Coursera
+  - [lorem]
+
+## Connect with me
+<p align="left">
+  
+<a href = "https://www.linkedin.com/in/muhammad-ali-yusuf-7623b91a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/muhammadaliyusuff/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = "https://www.youtube.com/channel/UChpxkBwBkcMZSo7LGBcNFFQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+  
+</p>
+
+##  Views and Followers
+<a href="https://github.com/alfendio/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=wahyurhy">
+</a>
+<a href="https://github.com/alfendio?tab=followers"><img src="https://img.shields.io/github/followers/wahyurhy?label=Followers&style=social" alt="GitHub Badge"></a>
