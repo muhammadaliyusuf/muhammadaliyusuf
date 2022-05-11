@@ -34,6 +34,6 @@
 
 ##  Views and Followers
 <a href="https://github.com/alfendio/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=wahyurhy">
+    <img src="https://komarev.com/ghpvc/?username=muhammadaliyusuf">
 </a>
-<a href="https://github.com/alfendio?tab=followers"><img src="https://img.shields.io/github/followers/wahyurhy?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/alfendio?tab=followers"><img src="https://img.shields.io/github/followers/muhammadaliyusuf?label=Followers&style=social" alt="GitHub Badge"></a>
