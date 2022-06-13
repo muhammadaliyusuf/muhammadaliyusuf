@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg" height="175px"/></a>
 
-<h1 align="center">Hi Everyone!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
+<h1 align="center">Hi Everyone!</h1>
 <h3 align="center">I'm Muhammad Ali Yusuf</h3>
 
 ## 🚀 About Me
