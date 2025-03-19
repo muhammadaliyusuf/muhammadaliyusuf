@@ -4,8 +4,8 @@
 <h3 align="center">I'm Muhammad Ali Yusuf</h3>
 
 ## 🚀 About Me
-- 🔭 I’m currently studying at Trunojoyo Madura University.
-- 🌱 I’m currently learning about Cloud Computing at Bangkit Academy led by Google, GoTo, & Traveloka.
+- 🔭 Graduted from Trunojoyo Madura University.
+- 🌱 Recent computer science graduate with extremely motivated to continuously develop skills and grow professionally. Skill in Javascript and PHP, and also interest in various Software developments including those related to Cloud Computing and Web Development. Seeking to leverage my technical and problem-solving skills to contribute to a dynamic software development team.
 
 ## 📊 Stats
 <p align="left">
@@ -26,7 +26,7 @@
 ## Connect with me
 <p align="left">
   
-<a href = "https://www.linkedin.com/in/muhammad-ali-yusuf-7623b91a3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/muhammadaliyusuff/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/muhammadaliyusuff/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://www.youtube.com/channel/UChpxkBwBkcMZSo7LGBcNFFQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
   
